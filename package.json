@@ -33,7 +33,7 @@
   "dependencies": {},
   "devDependencies": {
     "eslint-config-jquery": "1.0.0",
-    "grunt": "1.0.1",
+    "grunt": "1.0.4",
     "grunt-cli": "1.2.0",
     "grunt-contrib-qunit": "1.2.0",
     "grunt-contrib-uglify": "2.0.0",
